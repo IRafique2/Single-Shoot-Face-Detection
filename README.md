@@ -68,6 +68,4 @@ We will preprocess the **LFW dataset**, resize images to 224x224, and normalize 
    jupyter notebook
    ```
 
----
 
-This version retains the key points while reducing repetitive details for a more concise read. Let me know if you'd like to modify any section further!
